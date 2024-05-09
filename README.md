@@ -1,4 +1,4 @@
-# ADSP 31012 Data Engineering Platforms for Analysis
+# Data Engineering Platforms for Analysis
 
 ## Overview
 This repository contains coursework for the MSCA 31012 Data Engineering Platforms for Analysis course. It includes various Jupyter notebooks that illustrate the use of SQL and NoSQL databases for data analysis.
